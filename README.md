@@ -5,14 +5,14 @@
 ### Description 
 
 Acne Detection and Severity Model using Region of Interests (ROIs) with 
-Ultralytic's Sliced Aided Hyper Inference for Small Object Detection and 
-tkinter GUI written in Python.
+Ultralytic's SAHI (Sliced Aided Hyper Inference) for Small Object Detection and tkinter GUI written in Python.
 
 #### Two-staged Acne Detection with ROIs
 
 * Train acne severity dataset on R-CNN classifier (Resnet-18)
-* Use the yolo detector as ROIs first stage 
-* Second stage R-CNN to detect the acne
+* Use YOLO detector as ROIs first stage detection
+* Second stage R-CNN to detect and classify acne with SAHI's small 
+object detection
 
 Todo:
 - [x] Train 300 epoch and adjustments
