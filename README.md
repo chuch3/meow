@@ -1,5 +1,10 @@
 # meow 😺
 
+- M : **M**ulti-Staged 
+- E : **E**pidermis 
+- O : **O**bservational 
+- W : **W**indowed interface 
+
 ![icon](icon/logo.png) 
 
 ### Description 
