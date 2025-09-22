@@ -1,7 +1,7 @@
 # meow 😺
 
 - M : **M**ulti-Staged 
-- E : **E**pidermis 
+- E  : **E**pidermis 
 - O : **O**bservational 
 - W : **W**indowed interface 
 
